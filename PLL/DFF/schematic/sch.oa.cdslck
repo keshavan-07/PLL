@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      heart
 HostName                       heartprob
-ProcessIdentifier              11051
-ProcessCreationTime_UTC        1682009291
-ProcessCreationTime_Readable   Thu Apr 20 22:18:11 2023 IST
+ProcessIdentifier              3318
+ProcessCreationTime_UTC        1681961727
+ProcessCreationTime_Readable   Thu Apr 20 09:05:27 2023 IST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/heart/cadence/PLL/FreqDiv/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Thu Apr 20 22:18:20 2023 IST
+FilePathUsedToEditLock         /home/heart/cadence/PLL/DFF/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Apr 20 20:01:54 2023 IST

@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu Apr 20 22:18:11 2023 IST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/heart/cadence/PLL/PFD/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Fri Apr 21 00:31:31 2023 IST
+FilePathUsedToEditLock         /home/heart/cadence/PLL/ChargePump/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Apr 21 00:36:09 2023 IST
